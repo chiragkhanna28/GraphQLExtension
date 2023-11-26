@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{560E0B7C-CFDF-40E3-A770-23468A6863AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomGraphQLResolver", "src\Foundation\CustomGraphQLResolver\CustomGraphQLResolver.csproj", "{7E21EA5A-4137-4668-A21D-DC0CF15C16C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E21EA5A-4137-4668-A21D-DC0CF15C16C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E21EA5A-4137-4668-A21D-DC0CF15C16C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E21EA5A-4137-4668-A21D-DC0CF15C16C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E21EA5A-4137-4668-A21D-DC0CF15C16C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7E21EA5A-4137-4668-A21D-DC0CF15C16C0} = {560E0B7C-CFDF-40E3-A770-23468A6863AD}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEE5B4D5-29F7-46F4-B7CE-5B1580EEE06F}
+	EndGlobalSection
+EndGlobal
